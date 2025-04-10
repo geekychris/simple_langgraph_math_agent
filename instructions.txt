@@ -1,0 +1,1 @@
+create a python based AI agent.  This agent should use langgraph and access ollama LLM which runs locally.  The agent is to provide three tools.  A tool to multiply two integers.  A tool to add two integers and a tool to negate one integer from another.  Provide a rest endpoint to access the runtime. 
