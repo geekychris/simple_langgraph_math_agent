@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Simple Langgraph Math Agent logo" width="180">
+</p>
+
 # Math Operations AI Agent
 
 A Python-based AI agent using LangGraph and Ollama that provides mathematical operations through a REST API. The agent uses a local LLM instance to understand queries and execute math tools.
